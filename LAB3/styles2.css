@@ -1,0 +1,12 @@
+.txt{
+    color:black;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    padding-left: 5px;
+}
+.pic{
+    width: 600px;
+    height: 600px;
+    border: 3px solid black;
+    float: left;
+    margin-right: 8px;
+}
